@@ -1,4 +1,4 @@
-TO run:
+To run:
 1) clone repository (git clone <github link>)
 2) cd <crypto folder>
 3) npm install
