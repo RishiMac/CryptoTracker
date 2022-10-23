@@ -1,6 +1,6 @@
 To run:
 1) clone repository (git clone <github link>)
-2) cd <crypto folder>
+2) Go to correct folder (cd CryptoTracker)
 3) npm install
 4) npm start
 
